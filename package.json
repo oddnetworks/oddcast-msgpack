@@ -1,0 +1,40 @@
+{
+  "name": "oddcast-msgpack",
+  "version": "1.0.0",
+  "description": "An cddcast utility for msgpack",
+  "scripts": {
+    "lint": "xo",
+    "test": "xo && tape 'test/**/*-test.js' | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddnetworks/oddcast-msgpack.git"
+  },
+  "keywords": [
+    "odd networks",
+    "oddworks",
+    "oddcast",
+    "messagepack",
+    "msgpack"
+  ],
+  "author": "Odd Networks",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/oddnetworks/oddcast-msgpack/issues"
+  },
+  "homepage": "https://github.com/oddnetworks/oddcast-msgpack#readme",
+  "dependencies": {
+    "msgpack5": "^3.3.0"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1",
+    "xo": "^0.15.0"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "es6"
+    ]
+  }
+}
