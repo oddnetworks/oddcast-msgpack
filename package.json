@@ -1,7 +1,7 @@
 {
   "name": "oddcast-msgpack",
   "version": "1.0.0",
-  "description": "An cddcast utility for msgpack",
+  "description": "An oddcast utility for msgpack",
   "scripts": {
     "lint": "xo",
     "test": "xo && tape 'test/**/*-test.js' | tap-spec"
