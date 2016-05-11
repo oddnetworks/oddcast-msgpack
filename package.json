@@ -2,6 +2,7 @@
   "name": "oddcast-msgpack",
   "version": "1.0.0",
   "description": "An oddcast utility for msgpack",
+  "main": "./lib/oddcast-msgpack",
   "scripts": {
     "lint": "xo",
     "test": "xo && tape 'test/**/*-test.js' | tap-spec"
