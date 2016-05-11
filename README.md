@@ -2,6 +2,8 @@
 
     An oddcast utility for msgpack
 
+[![Build Status](https://travis-ci.org/oddnetworks/oddcast-msgpack.svg?branch=master)](https://travis-ci.org/oddnetworks/oddcast-msgpack)
+
 Install
 -------
 
