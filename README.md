@@ -2,7 +2,7 @@
 
     An oddcast utility for msgpack
 
-[![Build Status](https://travis-ci.org/oddnetworks/oddcast-msgpack.svg?branch=master)](https://travis-ci.org/oddnetworks/oddcast-msgpack)
+[![pipeline status](https://gitlab.com/oddnetworks/oddworks/oddcast-msgpack/badges/master/pipeline.svg)](https://gitlab.com/oddnetworks/oddworks/oddcast-msgpack/commits/master)
 
 Install
 -------

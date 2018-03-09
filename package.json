@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oddnetworks/oddcast-msgpack.git"
+    "url": "git+https://gitlab.com/oddnetworks/oddworks/oddcast-msgpack.git"
   },
   "keywords": [
     "odd networks",
@@ -21,9 +21,9 @@
   "author": "Odd Networks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oddnetworks/oddcast-msgpack/issues"
+    "url": "https://gitlab.com/oddnetworks/oddworks/oddcast-msgpack/issues"
   },
-  "homepage": "https://github.com/oddnetworks/oddcast-msgpack#readme",
+  "homepage": "https://gitlab.com/oddnetworks/oddworks/oddcast-msgpack#readme",
   "dependencies": {
     "msgpack5": "^3.3.0"
   },
