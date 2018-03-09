@@ -1,6 +1,6 @@
 {
   "name": "oddcast-msgpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An oddcast utility for msgpack",
   "main": "./lib/oddcast-msgpack",
   "scripts": {
